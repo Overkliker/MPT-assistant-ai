@@ -1,5 +1,6 @@
 Pandas
-Torch
+Tensorflow
 Jupyter
 scikit-learn
-nltk
+Spacy
+Keras-Preprocessing
