@@ -1,6 +1,6 @@
 Pandas
 Tensorflow
 Jupyter
-scikit-learn
-Spacy
+Scikit-learn
 Keras-Preprocessing
+Fasttext-wheel
